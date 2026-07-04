@@ -1,2 +1,2 @@
 # Tkz-Tabmaker
-pyQt Gui to create Tkz-Tab for  signs and variations  table of functions. 
+pyQt Gui to create Tkz-Tab  signs and variations table of functions. 
